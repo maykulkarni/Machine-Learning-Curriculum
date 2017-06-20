@@ -56,12 +56,12 @@ by skipping the Math.
      
   Complete one out of two:
   
-    1. [Machine Learning A-Z](https://www.udemy.com/machinelearning/)
-       Introductory course on ML focusing on not only Python but also R, one of the best sellers on Udemy.
+  1. [Machine Learning A-Z](https://www.udemy.com/machinelearning/)
+     Introductory course on ML focusing on not only Python but also R, one of the best sellers on Udemy.
 
-    2. [Introduction to Machine Learning - Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
-       Sebastian Thrun does an awesome job explaining various approaches in ML. It gets a little boring in the middle
-       but overall it's very good. 
+  2. [Introduction to Machine Learning - Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+     Sebastian Thrun does an awesome job explaining various approaches in ML. It gets a little boring in the middle
+     but overall it's very good. 
 
 
 ### Applied Machine Learning
