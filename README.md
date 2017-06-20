@@ -55,7 +55,6 @@ by skipping the Math.
      A must do course, best course of Introduction to Machine Learning so far, light on Math and focuses more on concepts.
      
   Complete one out of two
-  
       1. [Machine Learning A-Z](https://www.udemy.com/machinelearning/)
          Introductory course on ML focusing on not only Python but also R, one of the best sellers on Udemy.
 
@@ -66,7 +65,6 @@ by skipping the Math.
 
 ### Applied Machine Learning
   Two quick courses on applying the theory you learnt. They're short so I recommend doing both of them. 
-  
     1. [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
     
     2. [Machine Learning with Python - Hands On!](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/)
