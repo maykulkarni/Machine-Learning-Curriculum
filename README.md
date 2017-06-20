@@ -103,7 +103,7 @@ by skipping the Math.
     1. [MIT Deep Learning for Self Driving Cars](http://selfdrivingcars.mit.edu/)
     2. [Self Driving Car Nano Degree](https://in.udacity.com/course/self-driving-car-engineer-nanodegree--nd013/)
    
-   * Scientific Computing
+  * Scientific Computing
    
    1. [Scientific Computing](http://academictorrents.com/details/6f7e43052129b95f470d3043cfce2bf5c15ae380)
    2. [High Performance Scientific Computing](http://academictorrents.com/details/cb91a3d7a4c4c086be240b54e83ed8d587b31ff5)
