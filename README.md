@@ -53,7 +53,7 @@ by skipping the Math.
   1. [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
      A must do course, best course of Introduction to Machine Learning so far, light on Math and focuses more on concepts.
      
-  Complete one out of two:
+  Complete one out of two
   
     1. [Machine Learning A-Z](https://www.udemy.com/machinelearning/)
        Introductory course on ML focusing on not only Python but also R, one of the best sellers on Udemy.
