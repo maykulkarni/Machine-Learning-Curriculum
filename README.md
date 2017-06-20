@@ -11,11 +11,11 @@ Loose path:
 Understanding Math is pivotal. You can never be a good Machine Learning Scientist
 by skipping the Math.
 
-  1. [Probability & Statistics](https://www.khanacademy.org/math/probability) 
-     Basic Probability and Stats will be helpful in understanding ML algorithms like Naive Bayes. 
+  1. [Probability & Statistics](https://www.khanacademy.org/math/probability)
+  Basic Probability and Stats will be helpful in understanding ML algorithms like Naive Bayes. 
      
   2. [Statistics 101 - Udacity](https://www.udacity.com/course/intro-to-statistics--st101)
-     Taught by the founder of GoogleX it's full of exercises in Python so you won't get bored.
+  Taught by the founder of GoogleX it's full of exercises in Python so you won't get bored.
      
   3. [MIT 18.06 Linear Algebra](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8)
      Prof. Strang is terrific! Not only he'll make you fall in love in Linear Algebra but you'll learn
