@@ -48,7 +48,8 @@ by skipping the Math.
     In case you want to go deeper
       1. [Algorithms Stanford I](http://online.stanford.edu/course/algorithms-design-and-analysis-part-1)
       2. [Algotithms Stanford II](http://online.stanford.edu/course/algorithms-design-and-analysis-part-2)
-    
+ 
+ 
 ### Introduction to Machine Learning
 
   1. [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
@@ -70,7 +71,7 @@ by skipping the Math.
   1. [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
 
   2. [Machine Learning with Python - Hands On!](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/)
-    
+  
     
 ### Specializations
 
