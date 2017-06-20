@@ -62,11 +62,13 @@ by skipping the Math.
        Sebastian Thrun does an awesome job explaining various approaches in ML. It gets a little boring in the middle
        but overall it's very good. 
 
+
 ### Applied Machine Learning
   Two quick courses on applying the theory you learnt. They're short so I recommend doing both of them. 
     1. [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
     2. [Machine Learning with Python - Hands On!](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/)
-.
+    
+    
 ### Specializations
 
   * Deep Learning
