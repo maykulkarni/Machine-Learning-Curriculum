@@ -7,7 +7,7 @@ Loose path:
 4. Specializations
 
 
-### Math & Algorithms
+### Math
 Understanding Math is pivotal. You can never be a good Machine Learning Scientist
 by skipping the Math.
 
