@@ -105,8 +105,8 @@ by skipping the Math.
    
   * Scientific Computing
    
-   1. [Scientific Computing](http://academictorrents.com/details/6f7e43052129b95f470d3043cfce2bf5c15ae380)
-   2. [High Performance Scientific Computing](http://academictorrents.com/details/cb91a3d7a4c4c086be240b54e83ed8d587b31ff5)
+    1. [Scientific Computing](http://academictorrents.com/details/6f7e43052129b95f470d3043cfce2bf5c15ae380)
+    2. [High Performance Scientific Computing](http://academictorrents.com/details/cb91a3d7a4c4c086be240b54e83ed8d587b31ff5)
  
  
  
