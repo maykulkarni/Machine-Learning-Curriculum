@@ -41,6 +41,7 @@ by skipping the Math.
     2. [Complete Python Masterclass](https://www.udemy.com/python-the-complete-python-developer-course/)
     
   * Algorithms
+  
     Since you'll be coding a lot of algorithms yourself basic understanding is necessary
     1. [Basic Algorithms and Complexity Theory](https://www.youtube.com/watch?v=o4SGkB_8fFs&list=PLhQjrBD2T382VRUw5ZpSxQSFrxMOdFObl)
     
@@ -52,7 +53,8 @@ by skipping the Math.
   1. [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
      A must do course, best course of Introduction to Machine Learning so far, light on Math and focuses more on concepts.
      
-  Complete one out of two
+  Complete one out of two:
+  
     1. [Machine Learning A-Z](https://www.udemy.com/machinelearning/)
        Introductory course on ML focusing on not only Python but also R, one of the best sellers on Udemy.
        
@@ -68,6 +70,7 @@ by skipping the Math.
 ### Specializations
 
   * Deep Learning
+  
     1. [Neural Networks by Geofrrey Hinton](https://www.coursera.org/learn/neural-networks)
        This guy is the creator of backpropagation algorithm! Warning: very heavy on Math.
        
@@ -80,19 +83,23 @@ by skipping the Math.
     4. Must read book on Deep Learning: [Free HTML book](http://www.deeplearningbook.org/)
 
   * Big Data & Large Scale Machine Learning
+  
     1. [Introduction to Big Data](https://www.coursera.org/learn/big-data-introduction)
     2. [Spark and Python for Big Data with PySpark](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark/)
     3. [Distributed Machine Learning with Apache Spark](https://www.edx.org/course/distributed-machine-learning-apache-uc-berkeleyx-cs120x)
     
-  * NLP
+  * Natural Language Processing
+  
     1. [Introduction to Natural Language Processing UMichigan](http://academictorrents.com/details/78515f90de063ffc144be5e7e726c03849b4e0ed)
     2. [Natural Language Processing by Stanford](http://academictorrents.com/details/d2c8f8f1651740520b7dfab23438d89bc8c0c0ab)
     
   * Self Driving Car
+  
     1. [MIT Deep Learning for Self Driving Cars](http://selfdrivingcars.mit.edu/)
     2. [Self Driving Car Nano Degree](https://in.udacity.com/course/self-driving-car-engineer-nanodegree--nd013/)
    
    * Scientific Computing
+   
    1. [Scientific Computing](http://academictorrents.com/details/6f7e43052129b95f470d3043cfce2bf5c15ae380)
    2. [High Performance Scientific Computing](http://academictorrents.com/details/cb91a3d7a4c4c086be240b54e83ed8d587b31ff5)
  
