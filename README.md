@@ -87,6 +87,9 @@ by skipping the Math.
     3. [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
    
     4. Must read book on Deep Learning: [Free HTML book](http://www.deeplearningbook.org/)
+    
+    5. https://www.coursera.org/specializations/deep-learning NEW!!!
+    It has 5 courses,search them and enroll if you want to audit all the 5 courses for free.
 
   * Big Data & Large Scale Machine Learning
   
