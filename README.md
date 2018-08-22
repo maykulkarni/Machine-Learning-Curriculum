@@ -112,7 +112,9 @@ by skipping the Math.
     2. [High Performance Scientific Computing](http://academictorrents.com/details/cb91a3d7a4c4c086be240b54e83ed8d587b31ff5)
 
 ### Quick Revision Notebook
-    I have curated a collection of Jupyter Notebooks which can be used as a quick refreseher for various Machine Learning & Deep Learning concepts. Bookmark it for daily use: [Machine Learning Notebooks](https://github.com/maykulkarni/Machine-Learning-Notebooks)
+
+I have curated a collection of Jupyter Notebooks which can be used as a quick refreseher for various Machine Learning & Deep Learning
+concepts. Bookmark it for daily use: [Machine Learning Notebooks](https://github.com/maykulkarni/Machine-Learning-Notebooks)
  
  
  
