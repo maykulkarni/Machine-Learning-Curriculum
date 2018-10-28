@@ -31,6 +31,9 @@ by skipping the Math.
      Understanding vector calculus is necessary for algorithms like SVM, you might wanna skim some parts
      which are purely theoretical. Be sure to solve questions from here: [link](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/exams/)
      
+  6. [Maths for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+     This course from MIT OpenCourseWare is a good introduction on discrete mathematics for computer science and engineering, covering topics like proof methods, graph theory, counting principles, discrete probability, etc. You can find the readings for this course [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf)
+     
   7. (Optional) [Stanford Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)
      WARNING: Do this course only if you're very good at math. Convex Optimization will teach you numerous
      functions used in Machine Learning. But this course is extremely heavy on Math!
